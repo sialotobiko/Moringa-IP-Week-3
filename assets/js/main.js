@@ -1,5 +1,8 @@
 function showReport(){
 
+    e.preventDefault(e);
+
+
     let data = [];
 
      data[0] = data["sheda"] = parseInt(document.getElementById("sheda").value);

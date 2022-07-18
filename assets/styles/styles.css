@@ -21,7 +21,7 @@ input{
     height: 1cm;
     width:7cm;
 }
-#submit, #reset{
+#submit, #reset, #submit2{
     width: 3cm;
     font-size: 18px;
     background-color: lightsalmon;

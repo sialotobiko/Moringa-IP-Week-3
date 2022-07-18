@@ -1,4 +1,4 @@
-function showReport(e) {
+function showReport(e) { //gets data from form and displays the report
   e.preventDefault();
 
   const shedA = parseInt(document.getElementById("sheda").value);
